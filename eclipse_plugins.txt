@@ -1,0 +1,75 @@
+Edit Box 
+http://editbox.sourceforge.net
+
+Fast Code 
+http://fast-code.sourceforge.net
+
+Byecycle 
+http://byecycle.sourceforge.net
+
+Any Edit 
+http://andrei.gmxhome.de/eclipse
+
+Beyond CVS 
+http://beyondcvs.sourceforge.net
+
+Open Terminal 
+http://code.google.com/p/eclipse-openinterminal
+
+Checkstyle 
+http://eclipse-cs.sf.net/update
+
+Crap4J
+http://www.crap4j.org/downloads/update
+
+Ecl Emma 
+http://update.eclemma.org
+
+ExploreFS 
+http://www.junginger.biz/eclipse
+
+Findbugs 
+http://findbugs.cs.umd.edu/eclipse
+
+Groovy 
+http://groovy.codehaus.org/Eclipse+Plugin
+
+Maven 
+http://m2eclipse.sonatype.org/update-dev
+
+IvyDE 
+http://www.apache.org/dist/ant/ivyde/updatesite
+
+JBoss Tools 
+http://download.jboss.org/jbosstools/updates/stable
+
+JRebel 
+http://www.zeroturnaround.com/update-site
+
+PMD 
+http://pmd.sourceforge.net/eclipse
+
+Quantum DB
+http://quantum.sourceforge.net/update-site
+
+Subclipse
+http://subclipse.tigris.org/update_1.6.x
+
+Vaadin
+http://vaadin.com/eclipse
+
+Velocity UI
+http://veloedit.sourceforge.net/updates
+
+VeloEclipse
+http://veloeclipse.googlecode.com/svn/trunk/update
+
+Spring IDE
+http://springide.org/updatesite
+
+JAD
+http://jadclipse.sourceforge.net
+
+PyDev
+http://pydev.org
+ßœ
