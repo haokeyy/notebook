@@ -1,0 +1,39 @@
+Scrum Articles
+
+http://jamesshore.com/Blog/The-Decline-and-Fall-of-Agile.html
+http://www.infoq.com/scrum
+http://confluence.atlassian.com/display/JIRAHOST/Agile+Resources
+http://www.infoq.com/news/2009/05/kniberg-kanban-v-scrum
+http://www.infoq.com/minibooks/kanban-scrum-minibook
+http://scrumtraininginstitute.com/library
+http://martinfowler.com/bliki/FlaccidScrum.html
+http://en.wikipedia.org/wiki/Scrum_%28development%29
+http://www.agile-software-development.com
+http://www.controlchaos.com
+http://www.bitpipe.com/detail/RES/1125493734_100.html
+http://www.mountaingoatsoftware.com/topics/scrum
+http://www.implementingscrum.com
+http://www.scrumalliance.org
+http://jamesshore.com/Blog/The-Decline-and-Fall-of-Agile.html
+http://www.infoq.com/news/2009/11/agile-micromanagement
+http://www.atlassian.com/software/greenhopper
+http://scrummethodology.com
+http://scrum.jeffsutherland.com
+http://www.scrum.org
+http://www.scrum.org/scrumguides
+http://scrumtraininginstitute.com/classes/show/385
+http://www.infoq.com/news/2006/11/scrum-in-five-minutes
+
+Agile Articles
+
+http://www.infoq.com/agile
+http://howwework.thinkrelevance.com
+http://en.wikipedia.org/wiki/Lean_software_development
+http://cleancoder.posterous.com/what-killed-waterfall-could-kill-agile
+http://www.infoq.com/Kanban
+http://www.infoq.com/articles/hiranabe-lean-agile-kanban
+
+Agile SDLC
+
+http://www.ambysoft.com/essays/agileLifecycle.html
+http://www.scmpatterns.com
