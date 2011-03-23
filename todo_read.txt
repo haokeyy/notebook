@@ -1,0 +1,99 @@
+CSS
+Floatutorial
+http://css.maxdesign.com.au/floatutorial/index.htm
+Learn CSS Positioning in Ten Steps
+http://www.barelyfitz.com/screencast/html-training/css/positioning/
+CSS W3Schools 
+http://www.w3schools.com/css/default.asp
+webdesign.about.com - Understanding CSS Float
+http://webdesign.about.com/od/advancedcss/a/aa010107.htm
+webdesign.about.com - Using the DIV Tag
+http://webdesign.about.com/od/htmltags/qt/tipdivtag.htm
+DIV Based Layout With CSS
+http://www.devarticles.com/c/a/Web-Style-Sheets/DIV-Based-Layout-with-CSS/
+http://www.webreference.com/authoring/style/sheets/layout/advanced/
+http://htmlhelp.com/reference/css/structure.html
+http://www.w3.org/2002/03/csslayout-howto
+
+Python
+http://docs.python.org/release/2.5.4/tut/node6.html
+http://diveintopython.org
+http://code.google.com/edu/languages/google-python-class/index.html
+ 
+JQuery
+http://docs.jquery.com/How_jQuery_Works
+
+Django
+http://docs.djangoproject.com/en/1.2/topics/db/managers/
+http://docs.djangoproject.com/en/1.2/topics/db/queries/
+http://docs.djangoproject.com/en/1.2/ref/models/fields/
+http://docs.djangoproject.com/en/1.2/topics/db/queries/#querysets-are-lazy
+http://docs.djangoproject.com/en/1.2/ref/
+http://docs.djangoproject.com/en/dev/topics/signals
+
+http://stackoverflow.com/questions/1185628/how-do-i-define-a-unique-property-for-a-model-in-google-app-engine
+
+Google App Engine
+http://code.google.com/appengine/docs/python/channel/overview.html
+
+JavaScript
+YUI Test http://developer.yahoo.com/yui/theater/video.php?v=yuiconf2010-yuitest
+Maintainable JavaScript http://video.yahoo.com/watch/568351/2820297
+
+Hibernate
+Repository Pattern
+http://relation.to/Bloggers/RepositoryPatternVsTransparentPersistence
+http://fabiokung.com/2007/11/12/comments-to-gavin-king-about-ddd-and-repositories/
+DAO
+http://www.ibm.com/developerworks/java/library/j-genericdao.html
+http://community.jboss.org/wiki/GenericDataAccessObjects
+http://www.theserverside.com/news/thread.tss?thread_id=40581
+http://www.theserverside.com/discussions/thread.tss?thread_id=36319
+http://java.dzone.com/news/one-big-dao-or-one-dao
+http://raykrueger.blogspot.com/2007/09/best-generic-dao-interface-ever.html
+http://raykrueger.blogspot.com/2007/09/best-abstracthibernatedao-ever.html
+Design
+http://carinae.net/2009/11/layered-architecture-with-hibernate-and-spring-3/
+http://relation.to/Bloggers/SilliestPersistencePostEver
+Generic DAO pattern with JDK 5.0 http://relation.to/1350.lace
+What methods belong on an entity? http://relation.to/2786.lace
+Guides
+http://static.springsource.org/spring/docs/3.0.x/spring-framework-reference/html/orm.html
+
+Blogs
+http://larrytanner.blogspot.com/2009/03/jewish-radical-from-galilee.html
+http://larrytanner.blogspot.com/2009/11/why-bible-is-false.html
+http://larrytanner.blogspot.com/2010/06/russells-teapot-still-orbiting.html
+http://larrytanner.blogspot.com/2010/08/argument-that-disproves-atheism-circle.html
+
+Old List
+The Ethics of Belief http://ajburger.homestead.com/files/book.htm
+http://www.systemsguild.com/GuildSite/Books/BearSample.pdf
+Read http://www.canonical.org/~kragen/tao-of-programming.html
+CSS Tutorial http://css.maxdesign.com.au/floatutorial/
+http://www.utexas.edu/its/windows/database/datamodeling/index.html
+Getting Real http://gettingreal.37signals.com/toc.php
+Performance Impacts of AJAX Development http://www.webperformanceinc.com/library/reports/AjaxBandwidth/index.html
+Java Generics
+https://www6.software.ibm.com/developerworks/education/j-generics/j-generics-a4.pdf
+Servlets & JSP http://www.apl.jhu.edu/%7Ehall/java/Servlet-Tutorial/
+http://www.infoq.com/news/2007/05/jdeveloper
+http://www.ddj.com/dept/webservices/199203087
+http://debasishg.blogspot.com/2007/04/guiced-experience-porting-spring.html
+http://www.theserverside.com/tt/articles/article.tss?l=RedirectAfterPost2
+http://www.theserverside.com/tt/articles/article.tss?l=RedirectAfterPost
+Function Points - Numerology for Software Developers http://www.hacknot.info/hacknot/action/showEntry?eid=59
+Generalizing Specialist: Improving Your IT Career Skills http://www.agilemodeling.com/essays/generalizingSpecialists.htm
+http://www.cs.wisc.edu/~dbbook/openAccess/thirdEdition/Oracle/user_guide/oracle_guide.html
+http://download-west.oracle.com/docs/cd/B10501_01/nav/docindex.htm
+http://www.oracle.com/pls/db102/portal.all_books
+http://orafaq.com/faqplsql.htm
+http://www.oracle.com/technology/products/adf/adffaces/index.html
+http://www.ibm.com/developerworks/opensource/library/os-ecbug/?ca=dgr-jw01Eclipse-Debugging
+http://today.java.net/pub/a/today/2006/11/07/nuances-of-java-5-for-each-loop.html
+http://www.javascript-coder.com/index.php
+http://www.artima.com/forums/flat.jsp?forum=106&thread=35139
+http://www.artima.com/intv/principles.html
+http://www.artima.com/designtechniques/introdestechP.html
+http://www.artima.com/forums/flat.jsp?forum=106&thread=153316
+http://www.artima.com/intv/domain.html
