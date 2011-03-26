@@ -1,0 +1,46 @@
+From the book "Test Driven: Practical TDD and Acceptance TDD for Java Developers" by Lasse Koskela
+
+Continue on section 9.4, page 377
+
+User Stories:
+
+User stories are an extremely simple way to express requirements. In its classic form, a user story is a short sentence stating who does what and why.
+
+The reason a story is typically only one sentence long (or, in some cases, just one or two words that convey meaning to the customer and developers) is that the story is not intended to document the requirement. The story is intended to represent the requirement, acting as a promise of a future conversa- tion between the customer and the developer.
+
+A number of people have suggested writing user stories that follow an agreed for- mat such as “As a (role) I want (functionality) so that (benefit).” However, I and a number of other proponents of user stories for requirements management rec- ommend not fixing the format as such but focusing on the user story staying on a level of detail that makes sense, using terms that make sense to the customer.
+
+Hannah Arendt, a German political scientist, has said, “storytelling reveals meaning without committing the error of defining it.”2 This particular quote eloquently communicates how user stories focus on meaning without stumbling on nitty-gritty details.
+
+User stories are in many ways a form of storytelling, which is an effective medium for transferring knowledge. For one, people like listening to stories. Storytellers are good at keeping our attention—a lot more so than, say, structured documents of equal volume—and it’s not just audible stories that have this advantage; prose with a storyline and context is far more interesting reading than a seemingly unconnected sequence of statements.
+
+They (stories) convey what provides value to the customer — not how the system should provide that value.
+
+As we already mentioned, the format of a user story doesn’t matter all that much as long as it communicates the necessary information—who, what, why—to all involved parties, either explicitly or implicitly. In fact, just like the format of a story isn’t one-size-fits-all, using stories as a requirements-management or planning tool isn’t in any way a requirement for doing acceptance test-driven development—it’s a natural fit.
+
+Acceptance Tests:
+
+To make a long story short, acceptance tests are 
+■	Owned by the customer 
+■	Written together with the customer, developer, and tester 
+■	About the what and not the how 
+■	Expressed in the language of the problem domain 
+■	Concise, precise, and unambiguous
+
+The least qualified person
+
+The traditional way of dividing work on a team is for everyone to do what they do best. It’s intuitive. It’s safe. But it might not be the best way of completing the task. Arlo Belshee presented an experience report at the Agile 2005 conference, where he described how his company had started consciously tweaking the way they work and measuring what works and what doesn’t. Among their findings about stuff that worked was a practice of giving tasks to the least qualified per- son. For a full closure on their experience and an explanation of why this ap- proach works, listen to Arlo’s interview at the Agile Toolkit Podcast website (http://agiletoolkit.libsyn.com/).
+
+The most pop- ular category of tools (which we’ll survey later) these days seems to be what we call table-based tools. Their premise is that the tabular format of tables, rows, and columns makes it easy for us to specify our tests in a way that’s both human and machine read- able. 
+
+When do we write acceptance tests?
+It would be nice if we had all acceptance tests implemented (and failing) before we start implementing the production code. That is often not a realistic scenario, however, because tests require effort as well—they don’t just appear from thin air—and investing our time in implementing the complete set of acceptance tests up front doesn’t make any more sense than big up-front design does in the larger scale. It is much more efficient to implement acceptance tests as we go, user story by user story.
+
+We start from those stories we’ll be working on first, of course, and implement the user story in parallel with automating the acceptance tests that we’ll use to verify our work. And, if at all possible, we avoid having the same person imple- ment the tests and the production code in order to minimize our risk of human nature playing its tricks on us.
+
+Again, we want to keep an eye on putting too much up-front effort in automat- ing our acceptance tests—we might end up with a huge bunch of tests but no working software. It’s much better to proceed in small steps, delivering one story at a time. No matter how valuable our acceptance tests are to us, their value to the customer is negligible without the associated functionality.
+
+Decreasing the load
+When it looks like we’re running out of time, we decrease the load. We don’t work harder (or smarter). We’re way past that illusion. We don’t want to sacrifice qual- ity, because producing good quality guarantees the sustainability of our productiv- ity, whereas bad quality only creates more rework and grinds our progress to a halt. We also don’t want to have our developers burn out from working overtime, especially when we know that working overtime doesn’t make any difference in the long run. Instead, we adjust the one thing we can: the iteration’s scope—to reality. In general, there are three ways to do that: swap, drop, and split.
+
+Tom DeMarco and Timothy Lister have done a great favor to our industry with their best-selling books Slack (DeMarco; Broadway, 2001) and Peopleware (DeMarco, Lister; Dorset House, 1999), which explain how overtime reduces productivity.
