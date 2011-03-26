@@ -24,6 +24,18 @@ http://www.scrum.org/scrumguides
 http://scrumtraininginstitute.com/classes/show/385
 http://www.infoq.com/news/2006/11/scrum-in-five-minutes
 
+Scrum Site Resources
+
+http://scrumtraininginstitute.com/library
+http://sites.google.com/site/agiledevelopmentsite/home
+http://epf.eclipse.org/wikis/scrum
+http://www.scribd.com/doc/2370861/Scrum-Cheat-Sheet
+http://msdn.microsoft.com/en-us/library/dd997796.aspx
+http://www.scrumalliance.org
+http://www.scrum.org
+http://www.controlchaos.com
+http://www.mountaingoatsoftware.com/topics/scrum
+
 Agile Articles
 
 http://www.infoq.com/agile
@@ -37,3 +49,12 @@ Agile SDLC
 
 http://www.ambysoft.com/essays/agileLifecycle.html
 http://www.scmpatterns.com
+
+Etc
+
+http://confluence.atlassian.com/display/CONFEVAL/Using+JIRA+for+Agile+Development
+http://www.agile-software-development.com
+http://www.ambysoft.com/essays/agileLifecycle.html
+http://www.infoq.com/articles/multitasking-problems
+http://www.infoq.com/news/2009/11/agile-micromanagement
+http://www.infoq.com/news/2008/05/sprint_length
