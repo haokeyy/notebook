@@ -9,6 +9,7 @@ webdesign.about.com - Understanding CSS Float
 http://webdesign.about.com/od/advancedcss/a/aa010107.htm
 webdesign.about.com - Using the DIV Tag
 http://webdesign.about.com/od/htmltags/qt/tipdivtag.htm
+http://htmldog.com
 DIV Based Layout With CSS
 http://www.devarticles.com/c/a/Web-Style-Sheets/DIV-Based-Layout-with-CSS/
 http://www.webreference.com/authoring/style/sheets/layout/advanced/
