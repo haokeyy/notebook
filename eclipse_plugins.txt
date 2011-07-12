@@ -63,7 +63,8 @@ Quantum DB
 http://quantum.sourceforge.net/update-site
 
 SpringSource Tool Suite
-
+http://dist.springsource.com/release/TOOLS/update/e3.7
+http://dist.springsource.com/release/TOOLS/composite/e3.7
 
 Subclipse
 http://subclipse.tigris.org/update_1.6.x
