@@ -22,6 +22,7 @@ http://diveintopython.org
 http://code.google.com/edu/languages/google-python-class/index.html
  
 JQuery
+http://jqfundamentals.com/book/index.html
 http://docs.jquery.com/How_jQuery_Works
 
 Django
