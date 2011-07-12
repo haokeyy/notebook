@@ -33,6 +33,7 @@ http://findbugs.cs.umd.edu/eclipse
 
 Groovy 
 http://groovy.codehaus.org/Eclipse+Plugin
+http://dist.springsource.org/release/GRECLIPSE/e3.7
 
 Maven 
 http://m2eclipse.sonatype.org/update-dev
@@ -64,12 +65,8 @@ http://veloedit.sourceforge.net/updates
 VeloEclipse
 http://veloeclipse.googlecode.com/svn/trunk/update
 
-Spring IDE
-http://springide.org/updatesite
-
 JAD
 http://jadclipse.sourceforge.net
 
 PyDev
 http://pydev.org
-ßœ
