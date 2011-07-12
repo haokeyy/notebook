@@ -18,6 +18,7 @@ http://www.w3.org/2002/03/csslayout-howto
 
 Python
 http://docs.python.org/release/2.5.4/tut/node6.html
+http://www.learnpython.org
 http://diveintopython.org
 http://code.google.com/edu/languages/google-python-class/index.html
  
