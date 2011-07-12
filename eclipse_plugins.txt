@@ -1,20 +1,11 @@
-Edit Box 
-http://editbox.sourceforge.net
-
-Fast Code 
-http://fast-code.sourceforge.net
-
-Byecycle 
-http://byecycle.sourceforge.net
-
 Any Edit 
 http://andrei.gmxhome.de/eclipse
 
 Beyond CVS 
 http://beyondcvs.sourceforge.net
 
-Open Terminal 
-http://code.google.com/p/eclipse-openinterminal
+Byecycle 
+http://byecycle.sourceforge.net
 
 Checkstyle 
 http://eclipse-cs.sf.net/update
@@ -24,6 +15,15 @@ http://www.crap4j.org/downloads/update
 
 Ecl Emma 
 http://update.eclemma.org
+
+Edit Box 
+http://editbox.sourceforge.net
+
+Fast Code 
+http://fast-code.sourceforge.net
+
+Open Terminal 
+http://code.google.com/p/eclipse-openinterminal
 
 ExploreFS 
 http://www.junginger.biz/eclipse
@@ -35,11 +35,11 @@ Groovy
 http://groovy.codehaus.org/Eclipse+Plugin
 http://dist.springsource.org/release/GRECLIPSE/e3.7
 
-Maven 
-http://m2eclipse.sonatype.org/update-dev
-
 IvyDE 
 http://www.apache.org/dist/ant/ivyde/updatesite
+
+JAD
+http://jadclipse.sourceforge.net
 
 JBoss Tools 
 http://download.jboss.org/jbosstools/updates/stable
@@ -47,11 +47,20 @@ http://download.jboss.org/jbosstools/updates/stable
 JRebel 
 http://www.zeroturnaround.com/update-site
 
+Maven 
+http://m2eclipse.sonatype.org/update-dev
+
 PMD 
 http://pmd.sourceforge.net/eclipse
 
+PyDev
+http://pydev.org
+
 Quantum DB
 http://quantum.sourceforge.net/update-site
+
+SpringSource Tool Suite
+
 
 Subclipse
 http://subclipse.tigris.org/update_1.6.x
@@ -64,9 +73,3 @@ http://veloedit.sourceforge.net/updates
 
 VeloEclipse
 http://veloeclipse.googlecode.com/svn/trunk/update
-
-JAD
-http://jadclipse.sourceforge.net
-
-PyDev
-http://pydev.org
